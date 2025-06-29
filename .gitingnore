@@ -1,0 +1,12 @@
+# Ignore Python virtual env
+venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore database
+*.db
+
+# Ignore secret keys
+.env
